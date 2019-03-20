@@ -14,8 +14,8 @@
  */
 
 /**
- *  \file       template.c
- *  \brief      Brief description and purpose of this file.
+ *  \file   template.h
+ *  \brief  Brief description and purpose of this file.
  *
  *  Long description and purpose of this file.
  */
