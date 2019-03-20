@@ -1,5 +1,24 @@
-/* ------------------------------ File header ------------------------------ */
-/*  Use file_header.txt file                                                 */
+/*
+ *  --------------------------------------------------------------------------
+ *
+ *                               GICSAFe-Firmware
+ *                               ----------------
+ *
+ *                      Copyright (C) 2019 CONICET-GICSAFe
+ *          All rights reserved. Protected by international copyright laws.
+ *
+ *  Contact information:
+ *  site: https://github.com/gicsafe-firmware
+ *  e-mail: <someone>@<somewhere>
+ *  ---------------------------------------------------------------------------
+ */
+
+/**
+ *  \file       template.c
+ *  \brief      Brief description and purpose of this file.
+ *
+ *  Long description and purpose of this file.
+ */
 
 /* -------------------------- Development history -------------------------- */
 /*
@@ -45,5 +64,4 @@
 /* ----------------------- Local function prototypes ----------------------- */
 /* ---------------------------- Local functions ---------------------------- */
 /* ---------------------------- Global functions --------------------------- */
-/* ------------------------------ File footer ------------------------------ */
-/*  Use file_footer.txt file                                                 */
+/* ------------------------------ End of file ------------------------------ */
